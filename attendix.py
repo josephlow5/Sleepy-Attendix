@@ -3,7 +3,6 @@ import json
 import glob
 
 
-#>> INITIALIZING SESSION
 ContentType='application/x-www-form-urlencoded'
 
 
